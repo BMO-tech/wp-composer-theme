@@ -1,0 +1,14 @@
+{
+	"name": "SkyPress/wp-composer-theme",
+	"description": "WordPress Composer Test Project Theme",
+	"description": "WP Composer Test Hello World Plugin",
+	"license": "MIT",
+	"authors": [{
+		"name": "BMO",
+		"email": "bmo@skypress.io"
+	}],
+	"type": "wordpress-theme",
+	"require": {
+		"composer/installers": "~1.0"
+	}
+}
